@@ -3,6 +3,7 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 body {
   font-family: "Open Sans", sans-serif;
+  color: #000;
 }
 
 li {
@@ -12,4 +13,8 @@ li {
 
 input {
   margin-right: 10px;
+}
+
+.btn-primary a {
+  color: white;
 }
